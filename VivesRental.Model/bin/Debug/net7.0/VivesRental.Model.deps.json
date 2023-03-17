@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VivesRental.Model/1.0.0": {
+        "dependencies": {
+          "VivesRental.Enums": "1.0.0"
+        },
+        "runtime": {
+          "VivesRental.Model.dll": {}
+        }
+      },
+      "VivesRental.Enums/1.0.0": {
+        "runtime": {
+          "VivesRental.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VivesRental.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VivesRental.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

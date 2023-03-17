@@ -1,0 +1,17 @@
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Model.Extensions.deps.json
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Model.Extensions.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Model.Extensions.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Enums.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Model.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Model.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\bin\Debug\net7.0\VivesRental.Enums.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.csproj.AssemblyReference.cache
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.AssemblyInfoInputs.cache
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.AssemblyInfo.cs
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.csproj.CopyComplete
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\refint\VivesRental.Model.Extensions.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\VivesRental.Model.Extensions.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Model.Extensions\obj\Debug\net7.0\ref\VivesRental.Model.Extensions.dll

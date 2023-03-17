@@ -1,0 +1,49 @@
+/* _content/VivesRental.Ui.WebApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-cca2980izs] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-cca2980izs] {
+  color: #0077cc;
+}
+
+.btn-primary[b-cca2980izs] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-cca2980izs], .nav-pills .show > .nav-link[b-cca2980izs] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-cca2980izs] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-cca2980izs] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-cca2980izs] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-cca2980izs] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-cca2980izs] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

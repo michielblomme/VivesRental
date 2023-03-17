@@ -1,0 +1,516 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+        "projectName": "VivesRental.Enums",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+        "projectName": "VivesRental.Model.Extensions",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+        "projectName": "VivesRental.Model",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj",
+        "projectName": "VivesRental.Repository",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+        "projectName": "VivesRental.Services.Abstractions",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+        "projectName": "VivesRental.Services.Model",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+        "projectName": "VivesRental.Services",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj"
+              },
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              },
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj"
+              },
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj"
+              },
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+        "projectName": "VivesRental.Tests.Data",
+        "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+        "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Tests.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              },
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj"
+              },
+              "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj": {
+                "projectPath": "C:\\Users\\IB\\Documents\\school\\2de jaar\\Web development 2\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

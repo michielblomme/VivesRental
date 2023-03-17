@@ -1,0 +1,34 @@
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Repository.deps.json
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Repository.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Repository.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Enums.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Model.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Model.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Enums.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.csproj.AssemblyReference.cache
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.AssemblyInfoInputs.cache
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.AssemblyInfo.cs
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.csproj.CopyComplete
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\refint\VivesRental.Repository.dll
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.pdb
+C:\Users\Bavo\Source\Repos\VivesRental\VivesRental.Repository\obj\Debug\net7.0\ref\VivesRental.Repository.dll
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Repository.deps.json
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Repository.dll
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Repository.pdb
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Enums.dll
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Model.dll
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Model.pdb
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\bin\Debug\net7.0\VivesRental.Enums.pdb
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.csproj.AssemblyReference.cache
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.AssemblyInfoInputs.cache
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.AssemblyInfo.cs
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.csproj.CoreCompileInputs.cache
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.csproj.CopyComplete
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.dll
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\refint\VivesRental.Repository.dll
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\VivesRental.Repository.pdb
+C:\Users\IB\Documents\school\2de jaar\Web development 2\VivesRental\VivesRental.Repository\obj\Debug\net7.0\ref\VivesRental.Repository.dll
